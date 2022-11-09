@@ -1,7 +1,7 @@
-# Responsive-Web-Design-HTML-CSS
 
-<h1>Responsive Web Design with HTML & CSS</h1>
-
+<h1>Responsive Web Page Design with HTML & CSS</h1>
+<br>
+<h3>Only HTML and CSS used at this project.</h3>
 <ul>
   <li>HTML5 and CSS3</li>  
   <li>Clean Coded</li>
